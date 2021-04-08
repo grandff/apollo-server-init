@@ -1,6 +1,6 @@
 ## Apollo
 - typeDefs와 resolvers를 어느정도 추가한 버전임
-- 추후 아예 없이 graphql 만 실행할 수 있도록 수정 예정
+- 추후 아예 없이 graphql 만 실행할 수 있도록 수정 예정git co
 
 ## Postgres
 - 참고 URL : https://dejavuqa.tistory.com/16
@@ -18,3 +18,7 @@
 postgres 접속 : sudo -u postgres psql
 
 유저 생성 관련 : https://browndwarf.tistory.com/3
+
+콘솔 종료 : https://scmoon119.tistory.com/128
+
+다양한 명령어 : https://browndwarf.tistory.com/51
